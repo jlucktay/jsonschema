@@ -1,0 +1,5 @@
+- id: jsonschema-validate
+  name: Validate JSON against JSON Schema
+  entry: jv
+  files: '.*\.json$'
+  language: golang
